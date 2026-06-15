@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.DS_Store
+*.token
+*.npz
+*.npy
+catboost_info/
+data/
+submission_*_repro.csv
