@@ -4,4 +4,7 @@ scipy
 scikit-learn>=1.9
 catboost>=1.2.10
 lightgbm>=4.6
+xgboost>=2.0
 kaggle>=2.2
+matplotlib>=3.7
+seaborn>=0.13
